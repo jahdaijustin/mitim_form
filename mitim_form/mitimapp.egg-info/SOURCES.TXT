@@ -1,0 +1,8 @@
+setup.py
+mitimapp/__init__.py
+mitimapp/downloadPDF.py
+mitimapp.egg-info/PKG-INFO
+mitimapp.egg-info/SOURCES.txt
+mitimapp.egg-info/dependency_links.txt
+mitimapp.egg-info/requires.txt
+mitimapp.egg-info/top_level.txt
